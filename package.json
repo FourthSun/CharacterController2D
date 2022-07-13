@@ -1,0 +1,7 @@
+{
+  "name": "xyz.fourthsun.character-controller-2d",
+  "version": "1.0.0",
+  "displayName": "Character Controller 2D",
+  "description": "The Character Controller 2D package by FourthSun contains what the name describes, the missing CharacterController component for your 2D projects.\n\nIt behaves (almost) exactly the way the official 3D behaviour so for most users this should be a \"plug-and-play\" type of behaviour.",
+  "license": "MIT"
+}
